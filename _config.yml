@@ -1,0 +1,55 @@
+# Primary site settings
+title: "Hello. I'm Jason Zhu."
+description: "I'm a software developer from Winnipeg fascinated in machine learning models."
+project_hook: "Find Out More"
+email: 'jzcompsci@gmail.com'
+baseurl: "" 
+url: "https://jz-fsdev.github.io/" 
+linkedin_username: 'jason-zhu-dev'
+github_username: 'jz-fsdev'
+resume_url: "https://drive.google.com/file/d/1xvVEJ49xLR6rN5V1Bjb8lFt8caCwBFK8/view?usp=drive_link"
+footer_text: "&copy; 2023 Jason Zhu"
+
+# Head/Nav settings
+site_title: "Jason Zhu"
+
+# Contact settings
+contact_heading: "Let's Get In Touch!"
+contact_paragraph: "I am always open to collaborating on new projects to push my boundaries and grow as a software developer.  Send me an email or reach out to me on LinkedIn and I will respond at my earliest convenience."
+
+# Project settings
+project_intro_title: "Below are projects I am proud of:"
+
+q1_title: "I uphold a strict standard for quality"
+q1_desc: "\"Quality means doing it right when no one is looking.\""
+q1_author: "- Henry Ford"
+
+q2_title: "I believe there are no limits with teamwork"
+q2_desc: "\"Alone, we can do so little; together, we can do so much.\""
+q2_author: "- Helen Keller"
+
+q3_title: "I pour my heart and soul into my work"
+q3_desc: "\"When you love your work, it's not work anymore.\""
+q3_author: "- Jack Canfield"
+
+p1_category: "Depth-based Graph Core Decomposition"
+p1_name: "InnerCore"
+p1_url: "https://github.com/JZ-FSDev/InnerCore"
+
+p2_category: "Software Engineering Project"
+p2_name: "Android Music Management System"
+p2_url: "https://techtitans-uofm.github.io/posts/Music-Management-System/"
+
+p3_category: "Plant Molecular Biology Research"
+p3_name: "Polyketide Synthases"
+p3_url: "https://drive.google.com/file/d/1uOi3eD-iQl8q2NS9c1yO3ljoVra8coAk/view?usp=drive_link"
+
+# About settings
+about_heading: "Everyone's Journey is Different"
+about_description: "I come from a background in general sciences, which opened my eyes to the complexity of the world and taught me the importance of accuracy and novel discovery, not only in experiments but also in everything we do in life. My time as an operations manager at a local family restaurant allowed me to witness firsthand how quality and strict adherence to guidelines translate into happy and satisfied customers. These lessons and experiences guide my journey in the pursuit of developing high-quality and innovative software that brings smiles to customers' faces."
+
+# Build settings
+markdown: kramdown
+
+footer_text: '© 2023 Jason Zhu'
+google_analytics: ""
