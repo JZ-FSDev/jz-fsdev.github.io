@@ -1,5 +1,10 @@
 # Primary site settings
-title: "Hello. I'm Jason Zhu."
+title1: "Hello. I'm Jason Zhu."
+title2: "I'm a DeFi Researcher."
+title3: "I aim to solve real world problems."
+title4: "I love challenges."
+title5: "I'm eager to learn new things."
+
 description: "I'm a software developer from Winnipeg fascinated in machine learning models."
 project_hook: "Find Out More"
 email: 'jzcompsci@gmail.com'
@@ -7,7 +12,7 @@ baseurl: ""
 url: "https://jz-fsdev.github.io/" 
 linkedin_username: 'jason-zhu-dev'
 github_username: 'jz-fsdev'
-resume_url: "jz-fsdev.github.io/blob/main/assets/Jason_Zhu-Resume.pdf"
+resume_url: "https://jz-fsdev.github.io/assets/Jason_Zhu-Resume.pdf"
 footer_text: "&copy; 2023 Jason Zhu"
 
 # Head/Nav settings
@@ -42,7 +47,7 @@ p2_url: "https://techtitans-uofm.github.io/posts/Music-Management-System/"
 
 p3_category: "Plant Molecular Biology Research"
 p3_name: "Polyketide Synthases"
-p3_url: "jz-fsdev.github.io/assets/Jason_Zhu-PKS.pdf"
+p3_url: "https://jz-fsdev.github.io/assets/Jason_Zhu-PKS.pdf"
 
 # About settings
 about_heading: "Everyone's Journey is Different"
