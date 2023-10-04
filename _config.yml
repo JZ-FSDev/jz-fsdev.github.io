@@ -7,7 +7,7 @@ baseurl: ""
 url: "https://jz-fsdev.github.io/" 
 linkedin_username: 'jason-zhu-dev'
 github_username: 'jz-fsdev'
-resume_url: "https://drive.google.com/file/d/1xvVEJ49xLR6rN5V1Bjb8lFt8caCwBFK8/view?usp=drive_link"
+resume_url: "jz-fsdev.github.io/blob/main/assets/Jason_Zhu-Resume.pdf"
 footer_text: "&copy; 2023 Jason Zhu"
 
 # Head/Nav settings
@@ -42,7 +42,7 @@ p2_url: "https://techtitans-uofm.github.io/posts/Music-Management-System/"
 
 p3_category: "Plant Molecular Biology Research"
 p3_name: "Polyketide Synthases"
-p3_url: "https://drive.google.com/file/d/1uOi3eD-iQl8q2NS9c1yO3ljoVra8coAk/view?usp=drive_link"
+p3_url: "jz-fsdev.github.io/assets/Jason_Zhu-PKS.pdf"
 
 # About settings
 about_heading: "Everyone's Journey is Different"
