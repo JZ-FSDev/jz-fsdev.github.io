@@ -1,7 +1,7 @@
 # Primary site settings
 title1: "Hello. I'm Jason Zhu."
 title2: "I'm a DeFi Researcher."
-title3: "I aim to solve real world problems."
+title3: "I aim to solve real-world problems."
 title4: "I love challenges."
 title5: "I'm eager to learn new things."
 
@@ -52,6 +52,9 @@ p3_url: "https://jz-fsdev.github.io/assets/Jason_Zhu-PKS.pdf"
 # About settings
 about_heading: "Everyone's Journey is Different"
 about_description: "I come from a background in general sciences, which opened my eyes to the complexity of the world and taught me the importance of accuracy and novel discovery, not only in experiments but also in everything we do in life. My time as an operations manager at a local family restaurant allowed me to witness firsthand how quality and strict adherence to guidelines translate into happy and satisfied customers. These lessons and experiences guide my journey in the pursuit of developing high-quality and innovative software that brings smiles to customers' faces."
+
+# Aside settings
+aside: "More projects on the way!"
 
 # Build settings
 markdown: kramdown
