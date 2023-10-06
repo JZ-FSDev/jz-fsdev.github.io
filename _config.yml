@@ -51,7 +51,11 @@ p3_url: "https://jz-fsdev.github.io/assets/Jason_Zhu-PKS.pdf"
 
 # About settings
 about_heading: "Everyone's Journey is Different"
-about_description: "I come from a background in general sciences, which opened my eyes to the complexity of the world and taught me the importance of accuracy and novel discovery, not only in experiments but also in everything we do in life. My time as an operations manager at a local family restaurant allowed me to witness firsthand how quality and strict adherence to guidelines translate into happy and satisfied customers. These lessons and experiences guide my journey in the pursuit of developing high-quality and innovative software that brings smiles to customers' faces."
+about_description1: "I am a third-year Computer Science Honors student at the University of Manitoba, with a background in general sciences and operations management."
+
+about_description2: "My academic experience in general sciences opened my eyes to the complexity of the world and taught me the importance of accuracy and novel discovery, not only in experiments but also in everything we do in life. My time in operations management at a local family restaurant allowed me to witness firsthand how quality and strict adherence to guidelines translate into happy and satisfied customers."
+
+about_description3: "These lessons and experiences guide my computer science journey in the pursuit of developing high-quality and innovative software that brings smiles to customers' faces."
 
 # Aside settings
 aside: "More projects on the way!"
